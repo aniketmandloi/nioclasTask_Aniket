@@ -46,7 +46,7 @@ Before you begin, ensure you have the following software installed:
 
 ### Usage
 
-    To run the application locally, use the following command:
+  **To run the application locally, use the following command:**
 
         npm start
 
