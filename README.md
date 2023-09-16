@@ -83,7 +83,6 @@ Create a new branch with a descriptive name.
 Commit your changes.
 Push your changes to your fork.
 Submit a pull request to the main repository.
-Please review the CONTRIBUTING.md file for more details.
 
 
 
